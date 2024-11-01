@@ -57,3 +57,9 @@ Yeni platformları eklemek için `platforms` sözlüğüne bağlantı formatın�
 
 ## Katkıda Bulunun
 Projeye katkıda bulunmak istiyorsanız, GitHub üzerinden bir pull request gönderebilir veya iletişime geçebilirsiniz.
+
+## Destek Olun
+Projeyi beğendiyseniz, beni desteklemek için bana bir kahve ısmarlayabilirsiniz:
+
+[Buy Me a Coffee](https://www.buymeacoffee.com/twiez)
+
