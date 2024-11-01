@@ -26,7 +26,7 @@ Panlrxk, kullanıcı tarafından girilen bir kullanıcı adına göre çeşitli 
 1. Projeyi klonlayın:
    
     ```bash
-    git clone https://github.com/twiez/profile-finder.git
+    git clone https://github.com/twiez/Panlrxk.git
     ```
 3. Gerekli paketleri yükleyin:
    
