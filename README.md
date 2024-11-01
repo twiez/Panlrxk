@@ -6,6 +6,7 @@
 Panlrxk, kullanıcı tarafından girilen bir kullanıcı adına göre çeşitli sosyal medya ve forumlarda profilleri arayıp bulan bir Python uygulamasıdır. Proje, birçok popüler platformda tarama yaparak kullanıcı profillerini tespit edebilmekte ve bulunan profilleri anında bağlantı olarak sunmaktadır.
 
 ![Panlrxk](panlrxk.jpg)
+
 ---
 
 ## Özellikler
