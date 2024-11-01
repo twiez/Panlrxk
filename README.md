@@ -36,7 +36,7 @@ Panlrxk, kullanıcı tarafından girilen bir kullanıcı adına göre çeşitli 
 5. Uygulamayı çalıştırın:
    
     ```bash
-    python profile_finder.py
+    python panlrxk.py
     ```
 
 ---
